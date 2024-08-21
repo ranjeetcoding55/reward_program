@@ -54,7 +54,7 @@ Image2:  **Loading text appearing on screen**
 
 
 
-Image3: **Showing error message on screen while there is something wrong in data fetching.incorrect API end point*
+Image3: **Showing error message on screen while there is something wrong in data fetching.incorrect API end point**
 
 ![image](https://github.com/user-attachments/assets/c036742d-e89a-49c6-872e-4b8fdbf252f7)
 
